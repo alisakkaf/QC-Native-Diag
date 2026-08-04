@@ -1,0 +1,21 @@
+# C++ / Qt Build directories & artifacts
+build/
+.qtcreator/
+*.user
+*.user.*
+Makefile*
+object_script.*
+release/
+debug/
+
+# Local backups & scratch folders (EXCLUDED FROM GIT)
+1Backup/
+1Trash/
+INFO/
+*.zip
+*.vmp.exe
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
